@@ -1,14 +1,23 @@
 # gravity-assessment
 
-This repository contains solutions to a technical assessment covering:
+---
 
-- ✅ Data Structures & Algorithms in JavaScript
-- ✅ MongoDB Aggregation
-- ✅ A complete React-based Todo App with API integration and advanced Tailwind styling
+## Live Demo React Todo App
+
+The TODO app is deployed and accessible here:  
+**[https://gravity-assessment.vercel.app](https://gravity-assessment.vercel.app)**
 
 ---
 
-## 🗂 Folder Structure
+This repository contains solutions to a technical assessment covering:
+
+- Data Structures & Algorithms in JavaScript
+- MongoDB Aggregation
+- A complete React-based Todo App with API integration and advanced Tailwind styling
+
+---
+
+## Folder Structure
 
 ```
 GRAVITY-ASSESSMENT/
@@ -50,7 +59,7 @@ GRAVITY-ASSESSMENT/
 
 ---
 
-## ✅ DSA Problems
+## DSA Problems
 
 ### 1. Longest Increasing Subsequence
 - Efficient **O(n log n)** solution
@@ -62,7 +71,7 @@ GRAVITY-ASSESSMENT/
 
 ---
 
-## 📊 MongoDB Aggregation
+## MongoDB Aggregation
 
 - Aggregates total revenue and average item price
 - Groups by `store` and `month`
@@ -70,7 +79,7 @@ GRAVITY-ASSESSMENT/
 
 ---
 
-## 🧩 React Todo App
+## React Todo App
 
 - Built with **React + Tailwind CSS**
 - Features:
@@ -90,7 +99,7 @@ npm run dev
 
 ---
 
-## 🧪 Run DSA Test Cases
+## Run DSA Test Cases
 
 ```bash
 cd DSA
@@ -99,14 +108,14 @@ node test.js
 
 ---
 
-## ✍️ Author
+## Author
 
 **Omkarnath Parida**  
 [GitHub](https://github.com/pomkarnath98)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - JavaScript (ES6+)
 - Node.js
